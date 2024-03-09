@@ -16,5 +16,5 @@ Console.WriteLine("La velocidad relativa entre los dos trenes es de: " + vr);
 //Tiempo que tardará en alcanzar el primer tren al segundo es: Tiempo = distancia/Velocidad relativa
 Console.WriteLine("El tiempo que tardará el primer tren en alcanzar al segundo será de: " + distancia/vr);
 Console.ForegroundColor = ConsoleColor.Red;
-Console.WriteLine("La hora en que el primer tren alcance al segundo será 15:00");
+Console.WriteLine("La hora en que el segundo tren alcance al primero será 15:00");
 Console.ResetColor();
