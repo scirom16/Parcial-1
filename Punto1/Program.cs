@@ -38,5 +38,4 @@ else
 {
     Console.WriteLine(v3 + mensaje);
 }
-
-//No entendí la última pregunta
+Console.WriteLine("El promedio de comisión por sus ventas es de: " + comisionT/3);
